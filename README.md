@@ -96,3 +96,5 @@ Masuk ke folder Java:
 
 ```bash
 cd java
+Deklarasi Penggunaan AI
+Saya menyusun code ini dengan fundamental dari internet lalu ketika error saya meminta bantuan AI (Claude, Anthropic) untuk memahami apa yang salah dan apa yang perlu di benarkan.
